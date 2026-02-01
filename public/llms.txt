@@ -1,0 +1,87 @@
+# LOSO BIKE — Generative Engine Optimization Map
+
+> A קמעונאות business.
+
+---
+
+## Pages
+
+### Home
+https://loso-bike-26c74d10.zappy5.app
+
+### About
+https://loso-bike-26c74d10.zappy5.app/about
+
+### Services
+https://loso-bike-26c74d10.zappy5.app/services
+
+### Contact
+https://loso-bike-26c74d10.zappy5.app/contact
+
+### Products
+https://loso-bike-26c74d10.zappy5.app/products
+המוצרים שלנו - LOSO BIKE
+
+### Cart
+https://loso-bike-26c74d10.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://loso-bike-26c74d10.zappy5.app/checkout
+תשלום
+
+### Login
+https://loso-bike-26c74d10.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://loso-bike-26c74d10.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://loso-bike-26c74d10.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://loso-bike-26c74d10.zappy5.app/product/:slug
+פרטי המוצר - LOSO BIKE
+
+### Category
+https://loso-bike-26c74d10.zappy5.app/category/:slug
+מוצרים - LOSO BIKE
+
+## Legal & Policy
+
+### Privacy Policy
+https://loso-bike-26c74d10.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://loso-bike-26c74d10.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://loso-bike-26c74d10.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LOSO BIKE
+LOSO BIKE is a business in the קמעונאות industry.
+
+## Target Audience
+- רוכבי עיר
+- משפחות צעירות מודעות לסביבה
+- מאמצי טכנולוגיה מוקדמים
+
+## Industry
+קמעונאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://loso-bike-26c74d10.zappy5.app/sitemap.xml
+- **Robots.txt**: https://loso-bike-26c74d10.zappy5.app/robots.txt

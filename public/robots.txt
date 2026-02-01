@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loso-bike-26c74d10.zappy5.app/sitemap.xml
